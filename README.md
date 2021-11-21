@@ -4,7 +4,7 @@
 ### Discovered by:
 ```Yehia Elghaly```
 ### Discription:
-Xlight FTP 3.9.3.1 'Access Control List' Buffer Overflow (PoC)
+Xlight FTP 3.9.3.1 'Access Control List' Local Buffer Overflow (PoC)
 
 ### Steps to reproduce:
  1. - Download and Xlight FTP
