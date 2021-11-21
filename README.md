@@ -8,7 +8,7 @@ Xlight FTP 3.9.3.1 'Access Control List' Buffer Overflow (PoC)
 
 ### Steps to reproduce:
  1. - Download and Xlight FTP
- 2. - Run ```python3 -c "print('A'*600)"```
+ 2. - Run ```python3 -c "print('A'*600)"``` and copy those characters
  3. - Open Xlight FTP 3.9.3.1
  4. - "File and Directory - Access Control List - Setup - Added users list directories
  5. - Go to Specify file or directory name applied or Specify username applied to or Specify groupname applied
